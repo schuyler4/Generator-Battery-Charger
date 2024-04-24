@@ -1,0 +1,3 @@
+A shunt resistor is required to test the current sensing. This shunt resistor should be about 5m ohms and rated for 0.5W. 
+
+Part #: 588-WLBR005FET
