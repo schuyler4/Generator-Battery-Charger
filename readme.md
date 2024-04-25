@@ -14,6 +14,8 @@ perfectly, but it did seem to behave more like a current source than a voltage s
 reused 18650 cells which may have had a higher than normal series resistance. This may have had an effect on the behavior of the control
 system. 
 </p>
+
+See [Here](https://hackaday.io/project/195765-generator-battery-charger "here") for additional documentation
 <h3> Directory Structure </h3>
 <ul>
 <li><b>circuit_board_designs:</b> This includes all the custom circuit board designs that were made for the project.</li>
